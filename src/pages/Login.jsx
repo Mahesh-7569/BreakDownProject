@@ -117,7 +117,7 @@ function LoginPage({
                 Welcome to
               </p>
               <h1 className="h4 fw-semibold mb-1" style={{ color: "#0066ff" }}>
-                Manufacturing Execution Systems (MES)
+                CMMS 
               </h1>
               <div className="d-flex justify-content-center">
                 <span
@@ -181,7 +181,7 @@ function LoginPage({
 
             <div className="text-center mt-3">
               <span className="text-sm text-slate-600 dark:text-slate-300">
-                Use your MES credentials to continue.
+                Use your credentials to continue.
               </span>
             </div>
           </div>
